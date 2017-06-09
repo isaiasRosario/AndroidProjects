@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">I_Rosario_CE01</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_delete">Delete</string>
+    <string name="first_edit_text_hint">First Name</string>
+    <string name="last_edit_text_hint">Last Name</string>
+    <string name="age_edit_text_hint">age</string>
+</resources>
