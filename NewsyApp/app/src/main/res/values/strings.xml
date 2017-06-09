@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Newsy App</string>
+    <string name="json_error">Problem parsing JSON error</string>
+    <string name="request_error">Problem http request error</string>
+    <string name="url_error">Problem creating URL error</string>
+    <string name="respone_error">Problem JSON response error</string>
+    <string name="empty_text">NO DATA FOUND!</string>
+    <string name="read_article"><![CDATA[Read Article >]]></string>
+    <string name="text">New Text</string>
+    <string name="author">Author: </string>
+    <string name="author_guardian">The Guardian</string>
+    <string name="refresh">Refresh</string>
+</resources>
