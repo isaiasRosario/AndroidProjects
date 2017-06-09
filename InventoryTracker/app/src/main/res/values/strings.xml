@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Inventory Tracker</string>
+    <string name="action_dummy_data">Load Dummy Item</string>
+    <string name="action_delete_all">Delete Inventory</string>
+    <string name="empty_view_text">Load dummy item from menu or by pressing add button.</string>
+    <string name="in_stock">In Stock</string>
+    <string name="add_item">Add Item</string>
+    <string name="item_quantity">Enter Item Quantity</string>
+    <string name="item_description">Enter Item Description</string>
+    <string name="item_price">Enter Item Price</string>
+    <string name="item_image">item image</string>
+    <string name="save_quantity">Save Quantity</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="modify_quantity">Modify Quantity</string>
+    <string name="order_more">Order More</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="out_stock">Out Stock</string>
+    <string name="sale">SALE</string>
+
+    <string-array name="inventory_item_names">
+        <item>Sweet Cereal</item>
+        <item>Green Cleaner</item>
+        <item>Baby Lotion</item>
+        <item>Baby Shampoo</item>
+        <item>Dish Soap</item>
+        <item>Hair Spray</item>
+        <item>Toilet Paper</item>
+        <item>Window Cleaner</item>
+        <item>Baby Wipes</item>
+    </string-array>
+</resources>
