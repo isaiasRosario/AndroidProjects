@@ -1,0 +1,9 @@
+<GridView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/movieGrid"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:columnWidth="130dp"
+    android:gravity="center"
+    android:numColumns="auto_fit"
+    android:paddingTop="?android:attr/actionBarSize"
+    android:stretchMode="columnWidth" />
