@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.mytourguide.MainActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_height_zero"
+        android:layout_weight="1"
+        android:text="@string/attractions"
+        android:id="@+id/attractionsButton"
+        android:onClick="onClick"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_height_zero"
+        android:layout_weight="1"
+        android:text="@string/bars"
+        android:id="@+id/barsButton"
+        android:onClick="onClick"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_height_zero"
+        android:layout_weight="1"
+        android:text="@string/parks"
+        android:id="@+id/parksButton"
+        android:onClick="onClick"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_height_zero"
+        android:layout_weight="1"
+        android:text="@string/restaurants"
+        android:id="@+id/restaurantsButton"
+        android:onClick="onClick"
+        android:textStyle="bold" />
+
+</LinearLayout>

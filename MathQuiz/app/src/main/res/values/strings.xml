@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MathQuiz</string>
+    <string name="submit_answers">Submit Answers</string>
+    <string name="what_is_7_2">What is 7-2?</string>
+    <string name="enter_answer">Enter Answer</string>
+    <string name="what_is_6_3">What is 6+3?</string>
+    <string name="what_is_4_2">What is 4 + 2?</string>
+    <string name="which_are_even_numbers">Which are even numbers?</string>
+    <string name="_2">2</string>
+    <string name="_4">4</string>
+    <string name="_11">11</string>
+    <string name="which_is_the_plus_symbol">Which is the plus symbol?</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+</resources>
